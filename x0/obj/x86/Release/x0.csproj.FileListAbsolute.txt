@@ -1,0 +1,7 @@
+D:\PROG\Help\x0\x0\bin\Release\x0.exe
+D:\PROG\Help\x0\x0\bin\Release\x0.pdb
+D:\PROG\Help\x0\x0\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+D:\PROG\Help\x0\x0\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\PROG\Help\x0\x0\obj\x86\Release\x0.csproj.GenerateResource.Cache
+D:\PROG\Help\x0\x0\obj\x86\Release\x0.exe
+D:\PROG\Help\x0\x0\obj\x86\Release\x0.pdb
